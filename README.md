@@ -20,7 +20,8 @@ Explicitly Associated Subnets
 Implicitly Associated Subnets
 
 Inputs:
-VPC ID ----Enter the VPC ID from a region for which AWS CLI is configured
+Regoin -- Enter the Region Name from
+VPC ID ----Enter the VPC ID from the region entered
 
 Output:
 
