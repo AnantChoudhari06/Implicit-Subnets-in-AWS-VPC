@@ -21,6 +21,8 @@ Implicitly Associated Subnets
 
 Inputs:
 Regoin -- Enter the Region Name from
+
+
 VPC ID ----Enter the VPC ID from the region entered
 
 Output:
